@@ -12,7 +12,7 @@
 ./gradlew jar
 ```
 
-then the jar file will be in `brady-bot/build/libs/`.
+then the jar file will be in `Kaleb-Bot/build/libs/`.
 
 ## Compile MicroRTS and build its jar file
 
